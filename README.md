@@ -1,1 +1,3 @@
-# GetX_Localization
+# GetX Localization
+- English to Urdu
+- Urdu to English
